@@ -1,4 +1,16 @@
-<h1>Hi, I'm Azhar! <br/><a href="https://github.com/https://github.com/azhar6039">Programmer</a>, <a href="https://www.linkedin.com/in/azhar-shaik/">Devops Engineer</a>
+<h1>Hi, I'm Azhar! <br/><a href="https://github.com/https://github.com/azhar6039">Programmer</a>, <a href="https://www.linkedin.com/in/azhar-shaik/">Devops Engineer</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Sample Maven</b>
+  - [sample maven project for CI/CD Demo](https://github.com/azhar6039/samplemaven)
+- <b>Dockerfile</b>
+  - [Dockerfile which does image scan](https://github.com/azhar6039/docker)
+- <b>Example Voting App</b>
+  - [example voting app for kubernetes demo](https://github.com/azhar6039/jenkins-shared-library)
+- <b>Sample Jenkins Library</b>
+  - [sample jenkins Library which checks given file](https://github.com/azhar6039/jenkins-shared-library)
+
 <h2>Certification</h2>
 
 - <b>CloudBees</b>
