@@ -22,7 +22,7 @@
   - [Kubernetes for the Absolute Beginners - Hands-on](https://udemy-certificate.s3.amazonaws.com/pdf/UC-86b41381-e7c8-4425-ae08-0295cadd9f33.pdf)
   - [Programming with Python : HandsOn Introduction for Beginners](https://udemy-certificate.s3.amazonaws.com/pdf/UC-b0edf859-bd99-4ccb-bf12-680fff0afaec.pdf)
   - [Practice Python with 100 Python Exercises](https://udemy-certificate.s3.amazonaws.com/pdf/UC-85122863-37c5-49b2-9b7c-fffe38107b2f.pdf)
-- <b>PowerShell</b>
+- <b>KodeKloud</b>
   - [Labs - Docker for the Absolute Beginner - Hands On](https://kodekloud.com/certificate-verification/1333C1D36-13912DD10-12D090C8E/)
   - [Labs - Online Kubernetes Lab for Beginners - Hands On](https://kodekloud.com/certificate-verification/1333C1D36-13921D133-12D090C8E/)
   - [Lab - Terraform for Beginners](https://kodekloud.com/certificate-verification/1333C1D36-13EEAD830-12D090C8E/)
